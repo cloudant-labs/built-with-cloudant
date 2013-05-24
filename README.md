@@ -13,3 +13,8 @@ Collection of applications, demos and modules built with Cloudant
 
 ## Modules
 * [backbone.cloudant](https://github.com/cloudant-labs/backbone.cloudant)
+
+## Command-line tools
+* [Edelweiss: Using Views/Lists to select documents that match criteria](https://gist.github.com/gadamc/4965877) -- check the comment for this commit. i think this could be an example of how things were done before lucene-search and perhaps one should instead build a proper search index. 
+
+
