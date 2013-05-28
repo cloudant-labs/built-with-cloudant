@@ -6,6 +6,7 @@ Collection of applications, demos and modules built with Cloudant
 ## Apps
 * [Kleks](https://github.com/markuso/kleks) –  Pure CouchDB based CMS as a Couch App
 * [Edelweiss](https://edelweiss.cloudant.com/datadb/_design/app/index.html) - CouchApps for Science!
+* [Radiopurity](http://radiopurity.cloudant.com/rp/_design/persephone/index.html) - another Science app. Currently under construction, used to store assay results for materials considered in low-radioactive background physics experiments. 
 
 ## Demos
 * [Volcanos](http://chewbranca.cloudant.com/volcanoes/_design/volcanoes/index.html)
