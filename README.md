@@ -13,6 +13,9 @@ Collection of applications, demos and modules built with Cloudant
 * [PouchDB](http://pouchdb.com/) – PouchDB is a JavaScript library that allows you to store and query data for web applications that need to work offline, and sync with an online database when you are online.
 * [Blouch](https://github.com/chewbranca/blouch) - Blog on Couch
 
+## Apps
+* [BirdReader](https://github.com/glynnbird/birdreader) – Home-made Google Reader replacement powered by Node.js and Cloudant
+
 ## CouchApps
 * [Edelweiss](https://edelweiss.cloudant.com/datadb/_design/app/index.html) - CouchApps for Science!
 * [Radiopurity](http://radiopurity.cloudant.com/rp/_design/persephone/index.html) - another Science app. Currently under construction, used to store assay results for materials considered in low-radioactive background physics experiments.
