@@ -11,6 +11,7 @@ Collection of applications, demos and modules built with Cloudant
 * [Kleks](https://github.com/markuso/kleks) –  Pure CouchDB based CMS as a Couch App
 * [backbone.cloudant](https://github.com/cloudant-labs/backbone.cloudant)
 * [PouchDB](http://pouchdb.com/) – PouchDB is a JavaScript library that allows you to store and query data for web applications that need to work offline, and sync with an online database when you are online.
+* [Blouch](https://github.com/chewbranca/blouch) - Blog on Couch
 
 ## CouchApps
 * [Edelweiss](https://edelweiss.cloudant.com/datadb/_design/app/index.html) - CouchApps for Science!
