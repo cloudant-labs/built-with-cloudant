@@ -1,7 +1,7 @@
 builtwith.cloudant.com
 ======================
 
-Collection of applications, demos and modules built with Cloudant
+Collection of applications, demos and modules built with Cloudant or CouchDB
 
 ## Demos
 * [Volcanos](http://chewbranca.cloudant.com/volcanoes/_design/volcanoes/index.html)
@@ -16,6 +16,8 @@ Collection of applications, demos and modules built with Cloudant
 
 ## Apps
 * [BirdReader](https://github.com/glynnbird/birdreader) – Home-made Google Reader replacement powered by Node.js and Cloudant
+
+* [PawTime](http://www.hackathon.io/pawtime) – Online Boarder Reservations with Video Conferencing with Dog Treat Dispenser.
 
 ## CouchApps
 * [Edelweiss](https://edelweiss.cloudant.com/datadb/_design/app/index.html) - CouchApps for Science!
