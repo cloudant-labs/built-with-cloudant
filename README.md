@@ -19,6 +19,8 @@ Collection of applications, demos and modules built with Cloudant or CouchDB
 
 * [PawTime](http://www.hackathon.io/pawtime) – Online Boarder Reservations with Video Conferencing with Dog Treat Dispenser.
 
+* [Kujua Lite](https://github.com/medic/kujua) – web based SMS data collection and analytics tool focused on community health care workers in rural environments.
+
 ## CouchApps
 * [Edelweiss](https://edelweiss.cloudant.com/datadb/_design/app/index.html) - CouchApps for Science!
 * [Radiopurity](http://radiopurity.cloudant.com/rp/_design/persephone/index.html) - another Science app. Currently under construction, used to store assay results for materials considered in low-radioactive background physics experiments.
