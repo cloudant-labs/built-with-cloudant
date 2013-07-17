@@ -21,6 +21,8 @@ Collection of applications, demos and modules built with Cloudant or CouchDB
 
 * [Kujua Lite](https://github.com/medic/kujua) – web based SMS data collection and analytics tool focused on community health care workers in rural environments.
 
+* [typo/graphic posters](http://www.typographicposters.com/search/) – platform for inspiration and promotion of good design through the poster culture.
+
 ## CouchApps
 * [Edelweiss](https://edelweiss.cloudant.com/datadb/_design/app/index.html) - CouchApps for Science!
 * [Radiopurity](http://radiopurity.cloudant.com/rp/_design/persephone/index.html) - another Science app. Currently under construction, used to store assay results for materials considered in low-radioactive background physics experiments.
